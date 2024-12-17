@@ -1,5 +1,5 @@
 /* line 1, ../figmaSite/src/sass/reset.scss */
-/* line 2, ../clean-project/src/sass/reset.scss */
+/* line 2, ../projects/tailwind/src/sass/reset.scss */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -22,38 +22,38 @@ time, mark, audio, video {
 }
 
 /* line 21, ../figmaSite/src/sass/reset.scss */
-/* line 24, ../clean-project/src/sass/reset.scss */
+/* line 24, ../projects/tailwind/src/sass/reset.scss */
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
   display: block;
 }
 
 /* line 25, ../figmaSite/src/sass/reset.scss */
-/* line 30, ../clean-project/src/sass/reset.scss */
+/* line 30, ../projects/tailwind/src/sass/reset.scss */
 html {
   height: 100%;
 }
 
 /* line 28, ../figmaSite/src/sass/reset.scss */
-/* line 35, ../clean-project/src/sass/reset.scss */
+/* line 35, ../projects/tailwind/src/sass/reset.scss */
 body {
   line-height: 1;
 }
 
 /* line 31, ../figmaSite/src/sass/reset.scss */
-/* line 40, ../clean-project/src/sass/reset.scss */
+/* line 40, ../projects/tailwind/src/sass/reset.scss */
 ol, ul {
   list-style: none;
 }
 
 /* line 34, ../figmaSite/src/sass/reset.scss */
-/* line 45, ../clean-project/src/sass/reset.scss */
+/* line 45, ../projects/tailwind/src/sass/reset.scss */
 blockquote, q {
   quotes: none;
 }
 
 /* line 37, ../figmaSite/src/sass/reset.scss */
-/* line 50, ../clean-project/src/sass/reset.scss */
+/* line 50, ../projects/tailwind/src/sass/reset.scss */
 blockquote:before, blockquote:after,
 q:before, q:after {
   content: '';
@@ -61,7 +61,7 @@ q:before, q:after {
 }
 
 /* line 42, ../figmaSite/src/sass/reset.scss */
-/* line 57, ../clean-project/src/sass/reset.scss */
+/* line 57, ../projects/tailwind/src/sass/reset.scss */
 table {
   border-collapse: collapse;
   border-spacing: 0;
